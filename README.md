@@ -4,7 +4,7 @@
 
 ![Alt Text](https://i.pinimg.com/originals/25/2a/11/252a1136088a66087670410669be314e.gif)
 
-An artificial maid ready to serve **CS Infinite Group**! 🎉
+An artificial maid ready to serve **CS Infinite** group! 🎉
 </center>
 
 ## Feature List
