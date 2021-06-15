@@ -7,11 +7,11 @@
 An artificial maid ready to serve **CS Infinite Group**! 🎉
 </center>
 
-## 🔥 Feature List 🔥
+## Feature List
 - [ ] 🎙 Meeting Management
 - [ ] 🕺 Member Management
 - [ ] 👀 Utilities
 
-## 👨‍💻 Developer 👩‍💻
+## Developer / Maintainer 
 - pnxguide (Yuttapichai Kerdcharoen)
 - To be recruited
